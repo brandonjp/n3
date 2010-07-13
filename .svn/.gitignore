@@ -1,0 +1,11 @@
+/all-wcprops
+/dir-props
+/entries
+/format
+/.svn/*
+/.svn/*/*
+/.svn/*/*/*
+*.svn-base
+/.svn/*.svn-base
+/.svn/*/*.svn-base
+/.svn/*/*/*.svn-base
